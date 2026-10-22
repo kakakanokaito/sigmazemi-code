@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "source": "夏目漱石『吾輩は猫である』（青空文庫）",
+    "total_chars": 318354,
+    "vocab_size": 3042,
+    "train_chars": 286518,
+    "test_chars": 20000
+  },
+  "models": [
+    {
+      "n": 1,
+      "context_chars": 0,
+      "label": "直前 0 文字を見るAI",
+      "train_surprise_bits": 7.68,
+      "test_surprise_bits": 7.83,
+      "generated_text": "吾オ家のとなう御ぬくに愚なが云りと意銘得奴も向？、を。の上面介く」と夜えは気うざや一そ」とじ処れらと圧カのるもな休。食すえ"
+    },
+    {
+      "n": 2,
+      "context_chars": 1,
+      "label": "直前 1 文字を見るAI",
+      "train_surprise_bits": 4.93,
+      "test_surprise_bits": 6.3,
+      "generated_text": "吾輩のごと同族中へ突然すが、当でも鈴木が十年も懸念ののなが盗がそんだよくとす。万だけれほどうんなった尻のようしか知って「で"
+    },
+    {
+      "n": 3,
+      "context_chars": 2,
+      "label": "直前 2 文字を見るAI",
+      "train_surprise_bits": 2.83,
+      "test_surprise_bits": 7.23,
+      "generated_text": "吾輩に劣らぬ顔を洗うた判然しなければ拾う場合にお寺詣りをしばしを甞めて徐々上りませんだよ。そうかしあの鳴き声が善い訳である事"
+    },
+    {
+      "n": 4,
+      "context_chars": 3,
+      "label": "直前 3 文字を見るAI",
+      "train_surprise_bits": 1.63,
+      "test_surprise_bits": 8.65,
+      "generated_text": "吾輩は看破した。そのように吹聴するごとく鼠色の毛衣をそっちを見て己れの方がえらいの長さの二分の一を引き取って眼を覚ますと、「向"
+    },
+    {
+      "n": 5,
+      "context_chars": 4,
+      "label": "直前 4 文字を見るAI",
+      "train_surprise_bits": 0.98,
+      "test_surprise_bits": 9.91,
+      "generated_text": "吾輩は猫には相違ないと思ったくらいだから独逸や英吉利でも、どこへかいらしったの。珍らしいな。いつ東京へ出てくれば、虫の喰わないと"
+    }
+  ],
+  "nekode_distribution": [
+    {
+      "char": "あ",
+      "count": 13,
+      "probability_pct": 43.3,
+      "surprise_bits": 1.21
+    },
+    {
+      "char": "な",
+      "count": 4,
+      "probability_pct": 13.3,
+      "surprise_bits": 2.91
+    },
+    {
+      "char": "は",
+      "count": 3,
+      "probability_pct": 10.0,
+      "surprise_bits": 3.32
+    },
+    {
+      "char": "も",
+      "count": 3,
+      "probability_pct": 10.0,
+      "surprise_bits": 3.32
+    },
+    {
+      "char": "す",
+      "count": 3,
+      "probability_pct": 10.0,
+      "surprise_bits": 3.32
+    }
+  ]
+}
