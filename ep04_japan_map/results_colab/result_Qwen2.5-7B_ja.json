@@ -1,0 +1,122 @@
+{
+ "model": "Qwen/Qwen2.5-7B",
+ "lang": "ja",
+ "n_cities": 1208,
+ "n_layers": 28,
+ "best_layer": 26,
+ "alpha": 10000.0,
+ "r2_lat": 0.371,
+ "r2_lon": 0.342,
+ "median_err_km": 216.3,
+ "median_err_km_hide_prefecture": 236.1,
+ "median_err_km_shuffled": 289.1,
+ "median_err_km_center_guess": 264.6,
+ "within_100km": 0.228,
+ "kagoshima_tokyo_true_km": 962.0,
+ "cities": {
+  "Tokyo": {
+   "name": "東京都",
+   "err_km": 67.1,
+   "err_km_pref": 110.9,
+   "true": [
+    35.6895,
+    139.69171
+   ],
+   "pred": [
+    35.192,
+    140.111
+   ]
+  },
+  "Kagoshima": {
+   "name": "鹿児島市",
+   "err_km": 88.3,
+   "err_km_pref": 118.6,
+   "true": [
+    31.56667,
+    130.55
+   ],
+   "pred": [
+    32.249,
+    130.073
+   ]
+  },
+  "Osaka": {
+   "name": "大阪市",
+   "err_km": 322.4,
+   "err_km_pref": 358.9,
+   "true": [
+    34.69379,
+    135.50107
+   ],
+   "pred": [
+    33.226,
+    132.486
+   ]
+  },
+  "Sapporo": {
+   "name": "札幌市",
+   "err_km": 352.8,
+   "err_km_pref": 886.0,
+   "true": [
+    43.06667,
+    141.35
+   ],
+   "pred": [
+    45.39,
+    144.367
+   ]
+  },
+  "Naha": {
+   "name": "那覇市",
+   "err_km": 371.4,
+   "err_km_pref": 1132.1,
+   "true": [
+    26.213,
+    127.67851
+   ],
+   "pred": [
+    28.813,
+    130.044
+   ]
+  },
+  "Fukuoka": {
+   "name": "福岡市",
+   "err_km": 390.5,
+   "err_km_pref": 277.8,
+   "true": [
+    33.6,
+    130.41667
+   ],
+   "pred": [
+    31.629,
+    126.965
+   ]
+  },
+  "Sendai": {
+   "name": "仙台市",
+   "err_km": 247.6,
+   "err_km_pref": 20.8,
+   "true": [
+    38.26667,
+    140.86667
+   ],
+   "pred": [
+    39.852,
+    142.88
+   ]
+  },
+  "Hiroshima": {
+   "name": "広島市",
+   "err_km": 324.1,
+   "err_km_pref": 290.2,
+   "true": [
+    34.4,
+    132.45
+   ],
+   "pred": [
+    32.944,
+    129.416
+   ]
+  }
+ }
+}

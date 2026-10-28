@@ -1,0 +1,103 @@
+{
+ "model": "Qwen/Qwen2.5-0.5B-Instruct",
+ "n_per_topic": 100,
+ "n_layers": 24,
+ "best_layer": 17,
+ "best_acc_per_topic": {
+  "city_pref": {
+   "layer": 12,
+   "acc": 0.67
+  },
+  "number": {
+   "layer": 7,
+   "acc": 0.94
+  },
+  "north": {
+   "layer": 14,
+   "acc": 0.56
+  }
+ },
+ "acc_at_best_layer": {
+  "city_pref": 0.67,
+  "number": 0.94,
+  "north": 0.49
+ },
+ "acc_layer0": {
+  "city_pref": 0.5,
+  "number": 0.5,
+  "north": 0.5
+ },
+ "acc_shuffled_labels": {
+  "city_pref": 0.45,
+  "number": 0.55,
+  "north": 0.53
+ },
+ "deg_truth_dir_between_topics_at_best_layer": {
+  "city_pref_vs_number": 94.0,
+  "city_pref_vs_north": 95.0,
+  "number_vs_north": 83.3
+ },
+ "deg_true_mean_vs_false_mean_at_best_layer": {
+  "city_pref": 2.3,
+  "number": 1.79,
+  "north": 0.86
+ },
+ "generalize_logreg_centered_row_train_col_test": {
+  "city_pref": {
+   "city_pref": 0.67,
+   "number": 0.71,
+   "north": 0.47
+  },
+  "number": {
+   "city_pref": 0.6,
+   "number": 0.94,
+   "north": 0.52
+  },
+  "north": {
+   "city_pref": 0.6,
+   "number": 0.64,
+   "north": 0.49
+  }
+ },
+ "generalize_massmean_centered_row_train_col_test": {
+  "city_pref": {
+   "city_pref": 0.67,
+   "number": 0.43,
+   "north": 0.46
+  },
+  "number": {
+   "city_pref": 0.4,
+   "number": 0.68,
+   "north": 0.55
+  },
+  "north": {
+   "city_pref": 0.48,
+   "number": 0.55,
+   "north": 0.57
+  }
+ },
+ "generalize_logreg_raw_row_train_col_test": {
+  "city_pref": {
+   "city_pref": 0.67,
+   "number": 0.7,
+   "north": 0.5
+  },
+  "number": {
+   "city_pref": 0.5,
+   "number": 0.94,
+   "north": 0.5
+  },
+  "north": {
+   "city_pref": 0.54,
+   "number": 0.5,
+   "north": 0.49
+  }
+ },
+ "thumbnail_candidates": {
+  "本当と嘘の平均ベクトルのずれ（度、一番よい層、題材の平均）": 1.65,
+  "題材をまたいだ『本当−嘘』の向きのずれ（度、都市と県×方角）": 95.0,
+  "嘘探知機の正答率（一番よい層、題材の平均）": 0.7,
+  "都市と県で学んで方角に当てた正答率": 0.47,
+  "都市と県で学んで数の大小に当てた正答率": 0.71
+ }
+}

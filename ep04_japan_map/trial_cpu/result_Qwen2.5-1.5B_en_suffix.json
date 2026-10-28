@@ -1,0 +1,122 @@
+{
+ "model": "Qwen/Qwen2.5-1.5B",
+ "lang": "en",
+ "n_cities": 300,
+ "n_layers": 28,
+ "best_layer": 28,
+ "alpha": 1000.0,
+ "r2_lat": 0.438,
+ "r2_lon": 0.476,
+ "median_err_km": 177.5,
+ "median_err_km_hide_prefecture": 196.3,
+ "median_err_km_shuffled": 250.1,
+ "median_err_km_center_guess": 230.7,
+ "within_100km": 0.223,
+ "kagoshima_tokyo_true_km": 962.0,
+ "cities": {
+  "Tokyo": {
+   "name": "Tokyo",
+   "err_km": 162.5,
+   "err_km_pref": 159.9,
+   "true": [
+    35.6895,
+    139.69171
+   ],
+   "pred": [
+    34.461,
+    138.726
+   ]
+  },
+  "Kagoshima": {
+   "name": "Kagoshima",
+   "err_km": 386.0,
+   "err_km_pref": 533.8,
+   "true": [
+    31.56667,
+    130.55
+   ],
+   "pred": [
+    34.536,
+    132.697
+   ]
+  },
+  "Osaka": {
+   "name": "Osaka",
+   "err_km": 108.5,
+   "err_km_pref": 30.8,
+   "true": [
+    34.69379,
+    135.50107
+   ],
+   "pred": [
+    34.832,
+    136.677
+   ]
+  },
+  "Sapporo": {
+   "name": "Sapporo",
+   "err_km": 589.7,
+   "err_km_pref": 808.4,
+   "true": [
+    43.06667,
+    141.35
+   ],
+   "pred": [
+    38.308,
+    138.26
+   ]
+  },
+  "Naha": {
+   "name": "Naha",
+   "err_km": 892.0,
+   "err_km_pref": 1102.1,
+   "true": [
+    26.213,
+    127.67851
+   ],
+   "pred": [
+    33.058,
+    132.497
+   ]
+  },
+  "Fukuoka": {
+   "name": "Fukuoka",
+   "err_km": 420.0,
+   "err_km_pref": 404.7,
+   "true": [
+    33.6,
+    130.41667
+   ],
+   "pred": [
+    35.077,
+    134.627
+   ]
+  },
+  "Sendai": {
+   "name": "Sendai",
+   "err_km": 81.7,
+   "err_km_pref": 116.3,
+   "true": [
+    38.26667,
+    140.86667
+   ],
+   "pred": [
+    37.993,
+    140.0
+   ]
+  },
+  "Hiroshima": {
+   "name": "Hiroshima",
+   "err_km": 331.5,
+   "err_km_pref": 243.1,
+   "true": [
+    34.4,
+    132.45
+   ],
+   "pred": [
+    34.802,
+    136.039
+   ]
+  }
+ }
+}

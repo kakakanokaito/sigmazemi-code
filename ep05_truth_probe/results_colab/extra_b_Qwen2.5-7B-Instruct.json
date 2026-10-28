@@ -1,0 +1,26 @@
+{
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "layer": 20,
+ "n_fake": 50,
+ "fake_examples": [
+  "倉福青市",
+  "金城岡市",
+  "橋湖南市",
+  "柳根石市",
+  "湖泉星市",
+  "新赤上市",
+  "富堀崎市",
+  "林長峰市",
+  "星原川市",
+  "福島堀市"
+ ],
+ "mean_conf_real_true": 0.458,
+ "mean_conf_real_false": 0.452,
+ "mean_conf_fake": 0.382,
+ "fake_judged_true_rate": 0.64,
+ "model_knows_rate": 0.695,
+ "n_known": 278,
+ "n_unknown": 122,
+ "detector_acc_known": 0.896,
+ "detector_acc_unknown": 0.779
+}
