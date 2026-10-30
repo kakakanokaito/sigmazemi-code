@@ -1,0 +1,45 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "phone_wh": 13.8,
+  "pue": 1.56,
+  "A_idle_w": 58.14981086519116,
+  "B": {
+    "一言": {
+      "sec": 0.30647,
+      "mean_w": 68.89767,
+      "wh": 0.00587,
+      "wh_extra": 0.00092,
+      "tokens": 8.0
+    },
+    "ふつう": {
+      "sec": 5.65849,
+      "mean_w": 70.62829,
+      "wh": 0.11102,
+      "wh_extra": 0.01962,
+      "tokens": 168.0
+    },
+    "長文": {
+      "sec": 14.82179,
+      "mean_w": 70.43476,
+      "wh": 0.28999,
+      "wh_extra": 0.05058,
+      "tokens": 439.0
+    }
+  },
+  "C": {
+    "questions": 16,
+    "one_by_one_wh_per_q": 0.07671474093951493,
+    "batch_wh_per_q": 0.005290541537544794,
+    "one_by_one_sec": 62.634103775024414,
+    "batch_sec": 4.210531711578369
+  },
+  "D": {
+    "normal_answer_wh": 0.11101743355278175,
+    "phone_charges_per_answer": 0.00804474156179578,
+    "answers_per_phone_charge": 124.30480113232825,
+    "with_pue_wh": 0.17318719634233953,
+    "kiba_bill_kwh": 161.29032258064515,
+    "kiba_bill_answers": 1452837.7878953745
+  }
+}

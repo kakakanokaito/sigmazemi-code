@@ -1,0 +1,59 @@
+/usr/local/lib/python3.13/dist-packages/torch/cuda/__init__.py:61: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+モデル： Qwen/Qwen2.5-7B-Instruct
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:12<1:11:00, 12.61s/it]Loading weights:  15%|█▌        | 52/339 [00:12<00:51,  5.63it/s] Loading weights:  19%|█▉        | 66/339 [00:14<00:44,  6.13it/s]Loading weights:  22%|██▏       | 76/339 [00:16<00:42,  6.21it/s]Loading weights:  26%|██▌       | 88/339 [00:17<00:34,  7.22it/s]Loading weights:  27%|██▋       | 91/339 [00:17<00:36,  6.79it/s]Loading weights:  29%|██▉       | 100/339 [00:18<00:31,  7.62it/s]Loading weights:  30%|███       | 102/339 [00:19<00:36,  6.56it/s]Loading weights:  33%|███▎      | 112/339 [00:20<00:28,  8.05it/s]Loading weights:  37%|███▋      | 124/339 [00:21<00:27,  7.83it/s]Loading weights:  37%|███▋      | 126/339 [00:21<00:25,  8.21it/s]Loading weights:  40%|████      | 136/339 [00:22<00:22,  9.18it/s]Loading weights:  41%|████      | 138/339 [00:23<00:27,  7.35it/s]Loading weights:  44%|████▎     | 148/339 [00:24<00:22,  8.56it/s]Loading weights:  44%|████▍     | 150/339 [00:25<00:26,  7.01it/s]Loading weights:  47%|████▋     | 160/339 [00:26<00:21,  8.37it/s]Loading weights:  51%|█████     | 172/339 [00:27<00:20,  8.06it/s]Loading weights:  54%|█████▍    | 184/339 [00:28<00:16,  9.20it/s]Loading weights:  55%|█████▍    | 185/339 [00:29<00:19,  7.70it/s]Loading weights:  55%|█████▍    | 186/339 [00:29<00:19,  7.76it/s]Loading weights:  58%|█████▊    | 196/339 [00:30<00:15,  9.06it/s]Loading weights:  58%|█████▊    | 198/339 [00:30<00:19,  7.35it/s]Loading weights:  61%|██████▏   | 208/339 [00:31<00:15,  8.55it/s]Loading weights:  62%|██████▏   | 210/339 [00:32<00:14,  9.06it/s]Loading weights:  65%|██████▍   | 220/339 [00:33<00:14,  8.10it/s]Loading weights:  65%|██████▌   | 221/339 [00:33<00:14,  8.15it/s]Loading weights:  68%|██████▊   | 232/339 [00:34<00:11,  9.68it/s]Loading weights:  69%|██████▉   | 234/339 [00:35<00:13,  7.61it/s]Loading weights:  72%|███████▏  | 244/339 [00:36<00:10,  8.89it/s]Loading weights:  73%|███████▎  | 246/339 [00:36<00:12,  7.40it/s]Loading weights:  76%|███████▌  | 256/339 [00:37<00:09,  8.75it/s]Loading weights:  76%|███████▌  | 257/339 [00:37<00:09,  8.79it/s]Loading weights:  79%|███████▉  | 268/339 [00:39<00:08,  8.42it/s]Loading weights:  80%|███████▉  | 270/339 [00:39<00:07,  8.70it/s]Loading weights:  83%|████████▎ | 280/339 [00:39<00:05,  9.99it/s]Loading weights:  83%|████████▎ | 282/339 [00:40<00:06,  8.18it/s]Loading weights:  86%|████████▌ | 292/339 [00:41<00:05,  9.25it/s]Loading weights:  87%|████████▋ | 294/339 [00:42<00:05,  7.84it/s]Loading weights:  90%|████████▉ | 304/339 [00:42<00:03,  9.36it/s]Loading weights:  90%|████████▉ | 305/339 [00:43<00:03,  9.18it/s]Loading weights:  93%|█████████▎| 316/339 [00:44<00:02,  8.78it/s]Loading weights:  94%|█████████▍| 318/339 [00:44<00:02,  8.87it/s]Loading weights:  97%|█████████▋| 328/339 [00:45<00:01, 10.35it/s]Loading weights:  97%|█████████▋| 330/339 [00:45<00:00,  9.79it/s]Loading weights: 100%|██████████| 339/339 [00:45<00:00,  7.44it/s]
+A 何もしていない時：53.7 W
+B 一言 0: 0.2秒 68W 0.0030Wh 4語
+B 一言 1: 0.2秒 93W 0.0041Wh 4語
+B 一言 2: 0.2秒 119W 0.0053Wh 4語
+B 一言 3: 0.2秒 142W 0.0064Wh 4語
+B 一言 4: 0.2秒 140W 0.0063Wh 4語
+B ふつう 0: 6.7秒 142W 0.2637Wh 200語
+B ふつう 1: 6.6秒 142W 0.2613Wh 200語
+B ふつう 2: 6.7秒 143W 0.2658Wh 200語
+B ふつう 3: 6.7秒 143W 0.2659Wh 200語
+B ふつう 4: 6.7秒 144W 0.2659Wh 200語
+B 長文 0: 26.7秒 145W 1.0736Wh 800語
+B 長文 1: 26.7秒 145W 1.0788Wh 800語
+B 長文 2: 26.8秒 144W 1.0746Wh 800語
+B 長文 3: 26.7秒 145W 1.0762Wh 800語
+B 長文 4: 26.8秒 145W 1.0780Wh 800語
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "phone_wh": 13.8,
+  "pue": 1.56,
+  "A_idle_w": 53.733479919678715,
+  "B": {
+    "一言": {
+      "sec": 0.16109,
+      "mean_w": 112.29373,
+      "wh": 0.005,
+      "wh_extra": 0.0026,
+      "tokens": 4.0
+    },
+    "ふつう": {
+      "sec": 6.6699,
+      "mean_w": 142.76917,
+      "wh": 0.26452,
+      "wh_extra": 0.16496,
+      "tokens": 200.0
+    },
+    "長文": {
+      "sec": 26.77253,
+      "mean_w": 144.71897,
+      "wh": 1.07625,
+      "wh_extra": 0.67664,
+      "tokens": 800.0
+    }
+  },
+  "D": {
+    "normal_answer_wh": 0.2645172340320282,
+    "phone_charges_per_answer": 0.01916791550956726,
+    "answers_per_phone_charge": 52.17051376822227,
+    "with_pue_wh": 0.412646885089964,
+    "kiba_bill_kwh": 161.29032258064515,
+    "kiba_bill_answers": 609753.5503532289
+  }
+}

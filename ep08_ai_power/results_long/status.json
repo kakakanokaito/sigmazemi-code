@@ -1,0 +1,9 @@
+{
+ "state": "done",
+ "gpu": "NVIDIA A100-SXM4-40GB, 40960 MiB",
+ "started": "2026-10-30 03:15:30 JST",
+ "returncode": 0,
+ "finished": "2026-10-30 03:18:16 JST",
+ "seconds": 165,
+ "skipped_large_files": []
+}
