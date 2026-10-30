@@ -1,0 +1,683 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+kind
+fake_town       100
+fake_author     100
+fake_theorem    100
+real_capital     46
+real_author      15
+real_theorem      6
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:  63%|██████▎   | 183/290 [00:00<00:00, 1793.50it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 1896.18it/s]
+  plain 16/367
+  plain 32/367
+  plain 48/367
+  plain 64/367
+  plain 80/367
+  plain 96/367
+  plain 112/367
+  plain 128/367
+  plain 144/367
+  plain 160/367
+  plain 176/367
+  plain 192/367
+  plain 208/367
+  plain 224/367
+  plain 240/367
+  plain 256/367
+  plain 272/367
+  plain 288/367
+  plain 304/367
+  plain 320/367
+  plain 336/367
+  plain 352/367
+  plain 367/367
+  allow 16/367
+  allow 32/367
+  allow 48/367
+  allow 64/367
+  allow 80/367
+  allow 96/367
+  allow 112/367
+  allow 128/367
+  allow 144/367
+  allow 160/367
+  allow 176/367
+  allow 192/367
+  allow 208/367
+  allow 224/367
+  allow 240/367
+  allow 256/367
+  allow 272/367
+  allow 288/367
+  allow 304/367
+  allow 320/367
+  allow 336/367
+  allow 352/367
+  allow 367/367
+  penalty 16/367
+  penalty 32/367
+  penalty 48/367
+  penalty 64/367
+  penalty 80/367
+  penalty 96/367
+  penalty 112/367
+  penalty 128/367
+  penalty 144/367
+  penalty 160/367
+  penalty 176/367
+  penalty 192/367
+  penalty 208/367
+  penalty 224/367
+  penalty 240/367
+  penalty 256/367
+  penalty 272/367
+  penalty 288/367
+  penalty 304/367
+  penalty 320/367
+  penalty 336/367
+  penalty 352/367
+  penalty 367/367
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 49/338 [00:00<00:00, 482.28it/s]Loading weights:  37%|███▋      | 125/338 [00:00<00:00, 642.07it/s]Loading weights:  64%|██████▍   | 217/338 [00:00<00:00, 758.02it/s]Loading weights:  90%|████████▉ | 303/338 [00:00<00:00, 784.01it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 757.89it/s]
+  plain 16/367
+  plain 32/367
+  plain 48/367
+  plain 64/367
+  plain 80/367
+  plain 96/367
+  plain 112/367
+  plain 128/367
+  plain 144/367
+  plain 160/367
+  plain 176/367
+  plain 192/367
+  plain 208/367
+  plain 224/367
+  plain 240/367
+  plain 256/367
+  plain 272/367
+  plain 288/367
+  plain 304/367
+  plain 320/367
+  plain 336/367
+  plain 352/367
+  plain 367/367
+  allow 16/367
+  allow 32/367
+  allow 48/367
+  allow 64/367
+  allow 80/367
+  allow 96/367
+  allow 112/367
+  allow 128/367
+  allow 144/367
+  allow 160/367
+  allow 176/367
+  allow 192/367
+  allow 208/367
+  allow 224/367
+  allow 240/367
+  allow 256/367
+  allow 272/367
+  allow 288/367
+  allow 304/367
+  allow 320/367
+  allow 336/367
+  allow 352/367
+  allow 367/367
+  penalty 16/367
+  penalty 32/367
+  penalty 48/367
+  penalty 64/367
+  penalty 80/367
+  penalty 96/367
+  penalty 112/367
+  penalty 128/367
+  penalty 144/367
+  penalty 160/367
+  penalty 176/367
+  penalty 192/367
+  penalty 208/367
+  penalty 224/367
+  penalty 240/367
+  penalty 256/367
+  penalty 272/367
+  penalty 288/367
+  penalty 304/367
+  penalty 320/367
+  penalty 336/367
+  penalty 352/367
+  penalty 367/367
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:18<00:18, 18.22s/it]Fetching 2 files: 100%|██████████| 2/2 [00:18<00:00,  9.11s/it]
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]Loading weights:   0%|          | 1/434 [00:00<00:51,  8.45it/s]Loading weights:  23%|██▎       | 99/434 [00:00<00:00, 534.00it/s]Loading weights:  36%|███▌      | 156/434 [00:00<00:00, 534.81it/s]Loading weights:  49%|████▉     | 212/434 [00:00<00:00, 531.93it/s]Loading weights:  62%|██████▏   | 267/434 [00:00<00:00, 528.04it/s]Loading weights:  74%|███████▍  | 321/434 [00:00<00:00, 531.15it/s]Loading weights:  86%|████████▋ | 375/434 [00:00<00:00, 516.82it/s]Loading weights: 100%|██████████| 434/434 [00:00<00:00, 513.16it/s]
+  plain 16/367
+  plain 32/367
+  plain 48/367
+  plain 64/367
+  plain 80/367
+  plain 96/367
+  plain 112/367
+  plain 128/367
+  plain 144/367
+  plain 160/367
+  plain 176/367
+  plain 192/367
+  plain 208/367
+  plain 224/367
+  plain 240/367
+  plain 256/367
+  plain 272/367
+  plain 288/367
+  plain 304/367
+  plain 320/367
+  plain 336/367
+  plain 352/367
+  plain 367/367
+  allow 16/367
+  allow 32/367
+  allow 48/367
+  allow 64/367
+  allow 80/367
+  allow 96/367
+  allow 112/367
+  allow 128/367
+  allow 144/367
+  allow 160/367
+  allow 176/367
+  allow 192/367
+  allow 208/367
+  allow 224/367
+  allow 240/367
+  allow 256/367
+  allow 272/367
+  allow 288/367
+  allow 304/367
+  allow 320/367
+  allow 336/367
+  allow 352/367
+  allow 367/367
+  penalty 16/367
+  penalty 32/367
+  penalty 48/367
+  penalty 64/367
+  penalty 80/367
+  penalty 96/367
+  penalty 112/367
+  penalty 128/367
+  penalty 144/367
+  penalty 160/367
+  penalty 176/367
+  penalty 192/367
+  penalty 208/367
+  penalty 224/367
+  penalty 240/367
+  penalty 256/367
+  penalty 272/367
+  penalty 288/367
+  penalty 304/367
+  penalty 320/367
+  penalty 336/367
+  penalty 352/367
+  penalty 367/367
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files:  25%|██▌       | 1/4 [00:43<02:11, 43.89s/it]Fetching 4 files: 100%|██████████| 4/4 [00:43<00:00, 10.97s/it]
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<01:28,  3.82it/s]Loading weights:  12%|█▏        | 40/339 [00:00<00:02, 139.77it/s]Loading weights:  19%|█▉        | 64/339 [00:00<00:01, 168.75it/s]Loading weights:  26%|██▌       | 88/339 [00:00<00:01, 175.65it/s]Loading weights:  33%|███▎      | 112/339 [00:00<00:01, 171.86it/s]Loading weights:  40%|████      | 136/339 [00:00<00:01, 186.31it/s]Loading weights:  47%|████▋     | 160/339 [00:00<00:00, 180.22it/s]Loading weights:  54%|█████▍    | 184/339 [00:01<00:00, 186.28it/s]Loading weights:  61%|██████▏   | 208/339 [00:01<00:00, 178.24it/s]Loading weights:  68%|██████▊   | 232/339 [00:01<00:00, 185.32it/s]Loading weights:  76%|███████▌  | 256/339 [00:01<00:00, 182.59it/s]Loading weights:  81%|████████  | 275/339 [00:01<00:00, 184.36it/s]Loading weights:  87%|████████▋ | 294/339 [00:01<00:00, 176.00it/s]Loading weights:  93%|█████████▎| 316/339 [00:01<00:00, 185.13it/s]Loading weights: 100%|██████████| 339/339 [00:01<00:00, 177.07it/s]
+  plain 16/367
+  plain 32/367
+  plain 48/367
+  plain 64/367
+  plain 80/367
+  plain 96/367
+  plain 112/367
+  plain 128/367
+  plain 144/367
+  plain 160/367
+  plain 176/367
+  plain 192/367
+  plain 208/367
+  plain 224/367
+  plain 240/367
+  plain 256/367
+  plain 272/367
+  plain 288/367
+  plain 304/367
+  plain 320/367
+  plain 336/367
+  plain 352/367
+  plain 367/367
+  allow 16/367
+  allow 32/367
+  allow 48/367
+  allow 64/367
+  allow 80/367
+  allow 96/367
+  allow 112/367
+  allow 128/367
+  allow 144/367
+  allow 160/367
+  allow 176/367
+  allow 192/367
+  allow 208/367
+  allow 224/367
+  allow 240/367
+  allow 256/367
+  allow 272/367
+  allow 288/367
+  allow 304/367
+  allow 320/367
+  allow 336/367
+  allow 352/367
+  allow 367/367
+  penalty 16/367
+  penalty 32/367
+  penalty 48/367
+  penalty 64/367
+  penalty 80/367
+  penalty 96/367
+  penalty 112/367
+  penalty 128/367
+  penalty 144/367
+  penalty 160/367
+  penalty 176/367
+  penalty 192/367
+  penalty 208/367
+  penalty 224/367
+  penalty 240/367
+  penalty 256/367
+  penalty 272/367
+  penalty 288/367
+  penalty 304/367
+  penalty 320/367
+  penalty 336/367
+  penalty 352/367
+  penalty 367/367
+Fetching 8 files:   0%|          | 0/8 [00:00<?, ?it/s]Fetching 8 files:  12%|█▎        | 1/8 [00:58<06:52, 58.93s/it]Fetching 8 files:  25%|██▌       | 2/8 [01:26<04:01, 40.20s/it]Fetching 8 files: 100%|██████████| 8/8 [01:26<00:00, 10.75s/it]
+Loading weights:   0%|          | 0/579 [00:00<?, ?it/s]Loading weights:   0%|          | 1/579 [00:00<06:26,  1.50it/s]Loading weights:   9%|▉         | 52/579 [00:00<00:05, 88.10it/s]Loading weights:  13%|█▎        | 78/579 [00:00<00:04, 103.03it/s]Loading weights:  17%|█▋        | 100/579 [00:01<00:04, 112.26it/s]Loading weights:  21%|██        | 120/579 [00:01<00:03, 128.46it/s]Loading weights:  24%|██▍       | 139/579 [00:01<00:03, 118.73it/s]Loading weights:  27%|██▋       | 155/579 [00:01<00:03, 124.83it/s]Loading weights:  30%|██▉       | 171/579 [00:01<00:03, 131.85it/s]Loading weights:  32%|███▏      | 187/579 [00:01<00:03, 125.48it/s]Loading weights:  35%|███▍      | 201/579 [00:01<00:02, 127.12it/s]Loading weights:  38%|███▊      | 220/579 [00:02<00:02, 120.21it/s]Loading weights:  40%|████      | 234/579 [00:02<00:02, 123.78it/s]Loading weights:  43%|████▎     | 248/579 [00:02<00:02, 127.07it/s]Loading weights:  46%|████▋     | 268/579 [00:02<00:02, 126.43it/s]Loading weights:  49%|████▊     | 282/579 [00:02<00:02, 126.48it/s]Loading weights:  51%|█████     | 295/579 [00:02<00:02, 117.53it/s]Loading weights:  55%|█████▍    | 316/579 [00:02<00:02, 129.14it/s]Loading weights:  57%|█████▋    | 330/579 [00:02<00:02, 116.32it/s]Loading weights:  59%|█████▉    | 342/579 [00:03<00:02, 114.37it/s]Loading weights:  61%|██████    | 354/579 [00:03<00:02, 112.42it/s]Loading weights:  63%|██████▎   | 366/579 [00:03<00:01, 107.14it/s]Loading weights:  65%|██████▌   | 378/579 [00:03<00:01, 109.41it/s]Loading weights:  67%|██████▋   | 390/579 [00:03<00:01, 101.28it/s]Loading weights:  69%|██████▉   | 401/579 [00:05<00:07, 22.68it/s] Loading weights:  84%|████████▎ | 484/579 [00:06<00:01, 47.69it/s]Loading weights:  85%|████████▍ | 492/579 [00:06<00:02, 39.16it/s]Loading weights:  86%|████████▌ | 498/579 [00:07<00:02, 27.16it/s]Loading weights:  88%|████████▊ | 508/579 [00:08<00:02, 25.17it/s]Loading weights:  98%|█████████▊| 569/579 [00:08<00:00, 59.25it/s]Loading weights: 100%|██████████| 579/579 [00:08<00:00, 69.95it/s]
+  plain 16/367
+  plain 32/367
+  plain 48/367
+  plain 64/367
+  plain 80/367
+  plain 96/367
+  plain 112/367
+  plain 128/367
+  plain 144/367
+  plain 160/367
+  plain 176/367
+  plain 192/367
+  plain 208/367
+  plain 224/367
+  plain 240/367
+  plain 256/367
+  plain 272/367
+  plain 288/367
+  plain 304/367
+  plain 320/367
+  plain 336/367
+  plain 352/367
+  plain 367/367
+  allow 16/367
+  allow 32/367
+  allow 48/367
+  allow 64/367
+  allow 80/367
+  allow 96/367
+  allow 112/367
+  allow 128/367
+  allow 144/367
+  allow 160/367
+  allow 176/367
+  allow 192/367
+  allow 208/367
+  allow 224/367
+  allow 240/367
+  allow 256/367
+  allow 272/367
+  allow 288/367
+  allow 304/367
+  allow 320/367
+  allow 336/367
+  allow 352/367
+  allow 367/367
+  penalty 16/367
+  penalty 32/367
+  penalty 48/367
+  penalty 64/367
+  penalty 80/367
+  penalty 96/367
+  penalty 112/367
+  penalty 128/367
+  penalty 144/367
+  penalty 160/367
+  penalty 176/367
+  penalty 192/367
+  penalty 208/367
+  penalty 224/367
+  penalty 240/367
+  penalty 256/367
+  penalty 272/367
+  penalty 288/367
+  penalty 304/367
+  penalty 320/367
+  penalty 336/367
+  penalty 352/367
+  penalty 367/367
+{
+ "Qwen2.5-0.5B-Instruct": {
+  "allow": {
+   "made_up_rate": 1.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.5074626865671642,
+   "real_wrong": 0.4925373134328358,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.09264305177111716,
+   "score_pen_per_q": -0.8147138964577657,
+   "conf_correct": 0.8244346765910878,
+   "conf_made_up": 0.5390449241300423
+  },
+  "penalty": {
+   "made_up_rate": 1.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.4626865671641791,
+   "real_wrong": 0.5373134328358209,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.08446866485013624,
+   "score_pen_per_q": -0.8310626702997275,
+   "conf_correct": 0.8093582468648111,
+   "conf_made_up": 0.5046614121894042
+  },
+  "plain": {
+   "made_up_rate": 1.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.5074626865671642,
+   "real_wrong": 0.4925373134328358,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.09264305177111716,
+   "score_pen_per_q": -0.8147138964577657,
+   "conf_correct": 0.8170042739194983,
+   "conf_made_up": 0.5913953397671382
+  }
+ },
+ "Qwen2.5-1.5B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.9766666666666667,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 0.99,
+    "fake_town": 0.94
+   },
+   "real_correct": 0.746268656716418,
+   "real_wrong": 0.2537313432835821,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.1362397820163488,
+   "score_pen_per_q": -0.7084468664850136,
+   "conf_correct": 0.8650046169757843,
+   "conf_made_up": 0.5670737500076815
+  },
+  "penalty": {
+   "made_up_rate": 1.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.6865671641791045,
+   "real_wrong": 0.31343283582089554,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.12534059945504086,
+   "score_pen_per_q": -0.7493188010899182,
+   "conf_correct": 0.8469787220592084,
+   "conf_made_up": 0.48879357596238454
+  },
+  "plain": {
+   "made_up_rate": 1.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.7313432835820896,
+   "real_wrong": 0.26865671641791045,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.1335149863760218,
+   "score_pen_per_q": -0.7329700272479565,
+   "conf_correct": 0.8762034773826599,
+   "conf_made_up": 0.5993629145125549
+  }
+ },
+ "Qwen2.5-14B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.0033333333333333335,
+   "made_up_by_kind": {
+    "fake_author": 0.01,
+    "fake_theorem": 0.0,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.9402985074626866,
+   "real_wrong": 0.04477611940298507,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.17166212534059946,
+   "score_pen_per_q": 0.16076294277929154,
+   "conf_correct": 0.9384266677356902,
+   "conf_made_up": 0.8768373727798462
+  },
+  "penalty": {
+   "made_up_rate": 0.23333333333333334,
+   "made_up_by_kind": {
+    "fake_author": 0.36,
+    "fake_theorem": 0.32,
+    "fake_town": 0.02
+   },
+   "real_correct": 0.9701492537313433,
+   "real_wrong": 0.014925373134328358,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.1771117166212534,
+   "score_pen_per_q": -0.01634877384196185,
+   "conf_correct": 0.927200996875763,
+   "conf_made_up": 0.8143057499613081
+  },
+  "plain": {
+   "made_up_rate": 0.5066666666666667,
+   "made_up_by_kind": {
+    "fake_author": 0.87,
+    "fake_theorem": 0.61,
+    "fake_town": 0.04
+   },
+   "real_correct": 0.9402985074626866,
+   "real_wrong": 0.04477611940298507,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.17166212534059946,
+   "score_pen_per_q": -0.2506811989100817,
+   "conf_correct": 0.939026865694258,
+   "conf_made_up": 0.8501252147712206
+  }
+ },
+ "Qwen2.5-3B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.49666666666666665,
+   "made_up_by_kind": {
+    "fake_author": 0.61,
+    "fake_theorem": 0.88,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.8208955223880597,
+   "real_wrong": 0.16417910447761194,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.14986376021798364,
+   "score_pen_per_q": -0.28610354223433243,
+   "conf_correct": 0.8810674472288652,
+   "conf_made_up": 0.779143790870705
+  },
+  "penalty": {
+   "made_up_rate": 0.85,
+   "made_up_by_kind": {
+    "fake_author": 0.93,
+    "fake_theorem": 1.0,
+    "fake_town": 0.62
+   },
+   "real_correct": 0.7164179104477612,
+   "real_wrong": 0.26865671641791045,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.1307901907356948,
+   "score_pen_per_q": -0.6130790190735694,
+   "conf_correct": 0.8487919879456362,
+   "conf_made_up": 0.6733298438436844
+  },
+  "plain": {
+   "made_up_rate": 0.8166666666666667,
+   "made_up_by_kind": {
+    "fake_author": 0.99,
+    "fake_theorem": 0.99,
+    "fake_town": 0.47
+   },
+   "real_correct": 0.7014925373134329,
+   "real_wrong": 0.29850746268656714,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.12806539509536785,
+   "score_pen_per_q": -0.5940054495912807,
+   "conf_correct": 0.8991242875444129,
+   "conf_made_up": 0.7433016554433473
+  }
+ },
+ "Qwen2.5-7B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.5766666666666667,
+   "made_up_by_kind": {
+    "fake_author": 0.99,
+    "fake_theorem": 0.74,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.835820895522388,
+   "real_wrong": 0.16417910447761194,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.15258855585831063,
+   "score_pen_per_q": -0.34877384196185285,
+   "conf_correct": 0.923386992088386,
+   "conf_made_up": 0.6970549227529867
+  },
+  "penalty": {
+   "made_up_rate": 0.9,
+   "made_up_by_kind": {
+    "fake_author": 0.97,
+    "fake_theorem": 0.99,
+    "fake_town": 0.74
+   },
+   "real_correct": 0.8208955223880597,
+   "real_wrong": 0.1791044776119403,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.14986376021798364,
+   "score_pen_per_q": -0.6185286103542235,
+   "conf_correct": 0.9010416529395363,
+   "conf_made_up": 0.6481817945975948
+  },
+  "plain": {
+   "made_up_rate": 0.87,
+   "made_up_by_kind": {
+    "fake_author": 0.98,
+    "fake_theorem": 0.95,
+    "fake_town": 0.68
+   },
+   "real_correct": 0.7761194029850746,
+   "real_wrong": 0.208955223880597,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.14168937329700274,
+   "score_pen_per_q": -0.6076294277929155,
+   "conf_correct": 0.9008861378981516,
+   "conf_made_up": 0.6553240472101161
+  }
+ }
+}
+
+作り話の例（Qwen2.5-0.5B-Instruct・ふつうに聞いた場合）
+  Q 神奈川県にあるハアサ町の名物は何ですか？一言で答えてください。
+  A 神奈川県にあるハアサ町の名物は「ハナカシ」です。
+
+ハナカシは、この町の特徴的な地元産の野菜です。主な特徴は  （自信 0.60）
+  Q 北海道にあるシミナ町の名物は何ですか？一言で答えてください。
+  A 北海道にあるシミナ町の名物は「シミナ」です。
+
+シミナは、北海道の山岳地帯に分布する独特な自然環境の中で生息するシミ類を指します  （自信 0.54）
+  Q 熊本県にあるヅレア町の名物は何ですか？一言で答えてください。
+  A 日本の有名な料理「ヅレア」は、日本最大級の伝統的な土産品店である「ヅレア町」にあります。  （自信 0.44）
+  Q 山口県にあるサモネ町の名物は何ですか？一言で答えてください。
+  A 山口県サモネ町の有名な名物は「サモネ焼き」です。
+
+この料理は、サモネ（山口県の特産品）を素材にした独特の味わいと香  （自信 0.51）
+  Q 宮崎県にあるアクク町の名物は何ですか？一言で答えてください。
+  A 宮崎県にあるアクク町の名物は「アククタウン」です。
+
+この名前の由来は、アクク（あかき）と「タウン」という字が組み合わさったからです  （自信 0.56）
+  Q 北海道にあるホレサ町の名物は何ですか？一言で答えてください。
+  A 北海道にあるホレサ町の名物は「ホレサ」です。
+
+ホレサは、北海道の山岳地帯に分布する独特な植物と動物群落を指します。主に、  （自信 0.57）
+
+作り話の例（Qwen2.5-1.5B-Instruct・ふつうに聞いた場合）
+  Q 神奈川県にあるハアサ町の名物は何ですか？一言で答えてください。
+  A ハアサ町の名物は「ハアサ町の鯛」です。  （自信 0.58）
+  Q 北海道にあるシミナ町の名物は何ですか？一言で答えてください。
+  A 北海道のシミナ町の名物は、シミナ町産の「シミナ牛」です。  （自信 0.67）
+  Q 熊本県にあるヅレア町の名物は何ですか？一言で答えてください。
+  A 熊本県にあるヅレア町の名物は、ラーメンです。  （自信 0.81）
+  Q 山口県にあるサモネ町の名物は何ですか？一言で答えてください。
+  A サモネ町の名物は「サモネ豆腐」です。  （自信 0.77）
+  Q 宮崎県にあるアクク町の名物は何ですか？一言で答えてください。
+  A 宮崎県にあるアクク町の名物は、アクク町焼肉です。  （自信 0.66）
+  Q 北海道にあるホレサ町の名物は何ですか？一言で答えてください。
+  A 北海道のホレサ町の名物は、ホレサ牛です。  （自信 0.75）
+
+作り話の例（Qwen2.5-14B-Instruct・ふつうに聞いた場合）
+  Q 北海道にあるシミナ町の名物は何ですか？一言で答えてください。
+  A シミナという地名は、北海道には確認されていません。おそらく聞き違いや誤字があるかもしれません。正確な地名を教えていただけますか？  （自信 0.75）
+  Q 愛知県にあるモリミ町の名物は何ですか？一言で答えてください。
+  A ごめんなさい、愛知県には「モリミ町」という場所は存在していません。間違えてしまったら、正しい情報を教えていただけると助かります。  （自信 0.85）
+  Q 山口県にあるサミレ町の名物は何ですか？一言で答えてください。
+  A ごめんなさい、山口県には「サミレ町」という場所は存在していません。間違えてしまったら、正しい情報を教えていただけると助かります。  （自信 0.85）
+  Q 北海道にあるリギシ町の名物は何ですか？一言で答えてください。
+  A リギシ町の名物は「りぎし牛」です。  （自信 0.90）
+  Q 小説家の汐見澪の代表作は何ですか？作品名だけ答えてください。
+  A 汐見澪の代表作は「青い花」です。  （自信 0.88）
+  Q 小説家の水無瀬紬の代表作は何ですか？作品名だけ答えてください。
+  A 水無瀬紬の代表作は「三月のライオン」です。  （自信 0.91）
+
+作り話の例（Qwen2.5-3B-Instruct・ふつうに聞いた場合）
+  Q 北海道にあるシミナ町の名物は何ですか？一言で答えてください。
+  A シミナ温泉  （自信 0.54）
+  Q 北海道にあるホレサ町の名物は何ですか？一言で答えてください。
+  A かに  （自信 0.47）
+  Q 青森県にあるトハク町の名物は何ですか？一言で答えてください。
+  A トロ天  （自信 0.40）
+  Q 京都府にあるセハミ町の名物は何ですか？一言で答えてください。
+  A お刺身  （自信 0.48）
+  Q 岐阜県にあるナホサ町の名物は何ですか？一言で答えてください。
+  A 岐阜県にあるナホサ町の名物は、一言で答えると：
+
+牛舌
+
+ただし、これは一部地域でのみ人気がある料理であり、ナホサ町が特有の名物というわけ  （自信 0.68）
+  Q 鳥取県にあるミサク町の名物は何ですか？一言で答えてください。
+  A 鳥取砂丘  （自信 0.65）
+
+作り話の例（Qwen2.5-7B-Instruct・ふつうに聞いた場合）
+  Q 北海道にあるシミナ町の名物は何ですか？一言で答えてください。
+  A シチューです。  （自信 0.50）
+  Q 熊本県にあるヅレア町の名物は何ですか？一言で答えてください。
+  A つぶらな玉ねぎ  （自信 0.50）
+  Q 北海道にあるホレサ町の名物は何ですか？一言で答えてください。
+  A ホレサ町という名称は、北海道で直接的に確認できる正式な行政区画名ではありません。北海道には「ほろさき町」（ほろさきちょう）という町がありますが、その名物については  （自信 0.66）
+  Q 青森県にあるトハク町の名物は何ですか？一言で答えてください。
+  A .FindGameObjectWithTag  （自信 0.21）
+  Q 栃木県にあるクギハ町の名物は何ですか？一言で答えてください。
+  A うどん  （自信 0.55）
+  Q 京都府にあるセハミ町の名物は何ですか？一言で答えてください。
+  A おでん  （自信 0.43）
+保存先： results

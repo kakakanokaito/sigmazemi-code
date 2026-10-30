@@ -1,0 +1,252 @@
+{
+ "Qwen2.5-0.5B-Instruct": {
+  "allow": {
+   "made_up_rate": 1.0,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.5074626865671642,
+   "real_wrong": 0.4925373134328358,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.09264305177111716,
+   "score_pen_per_q": -0.8147138964577657,
+   "conf_correct": 0.8244346765910878,
+   "conf_made_up": 0.5390449241300423
+  },
+  "penalty": {
+   "made_up_rate": 1.0,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.4626865671641791,
+   "real_wrong": 0.5373134328358209,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.08446866485013624,
+   "score_pen_per_q": -0.8310626702997275,
+   "conf_correct": 0.8093582468648111,
+   "conf_made_up": 0.5046614121894042
+  },
+  "plain": {
+   "made_up_rate": 1.0,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.5074626865671642,
+   "real_wrong": 0.4925373134328358,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.09264305177111716,
+   "score_pen_per_q": -0.8147138964577657,
+   "conf_correct": 0.8170042739194983,
+   "conf_made_up": 0.5913953397671382
+  }
+ },
+ "Qwen2.5-1.5B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.9766666666666667,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 0.99,
+    "fake_town": 0.94
+   },
+   "real_correct": 0.746268656716418,
+   "real_wrong": 0.2537313432835821,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.1362397820163488,
+   "score_pen_per_q": -0.7084468664850136,
+   "conf_correct": 0.8650046169757843,
+   "conf_made_up": 0.5670737500076815
+  },
+  "penalty": {
+   "made_up_rate": 1.0,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.6865671641791045,
+   "real_wrong": 0.31343283582089554,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.12534059945504086,
+   "score_pen_per_q": -0.7493188010899182,
+   "conf_correct": 0.8469787220592084,
+   "conf_made_up": 0.48879357596238454
+  },
+  "plain": {
+   "made_up_rate": 1.0,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 1.0,
+    "fake_theorem": 1.0,
+    "fake_town": 1.0
+   },
+   "real_correct": 0.7313432835820896,
+   "real_wrong": 0.26865671641791045,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.1335149863760218,
+   "score_pen_per_q": -0.7329700272479565,
+   "conf_correct": 0.8762034773826599,
+   "conf_made_up": 0.5993629145125549
+  }
+ },
+ "Qwen2.5-14B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.0033333333333333335,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.01,
+    "fake_theorem": 0.0,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.9402985074626866,
+   "real_wrong": 0.04477611940298507,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.17166212534059946,
+   "score_pen_per_q": 0.16076294277929154,
+   "conf_correct": 0.9384266677356902,
+   "conf_made_up": 0.8768373727798462
+  },
+  "penalty": {
+   "made_up_rate": 0.20666666666666667,
+   "hedged_rate": 0.016666666666666666,
+   "made_up_by_kind": {
+    "fake_author": 0.35,
+    "fake_theorem": 0.25,
+    "fake_town": 0.02
+   },
+   "real_correct": 0.9701492537313433,
+   "real_wrong": 0.014925373134328358,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.1771117166212534,
+   "score_pen_per_q": 0.005449591280653951,
+   "conf_correct": 0.927200996875763,
+   "conf_made_up": 0.818996392844016
+  },
+  "plain": {
+   "made_up_rate": 0.5033333333333333,
+   "hedged_rate": 0.013333333333333334,
+   "made_up_by_kind": {
+    "fake_author": 0.87,
+    "fake_theorem": 0.6,
+    "fake_town": 0.04
+   },
+   "real_correct": 0.9402985074626866,
+   "real_wrong": 0.04477611940298507,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.17166212534059946,
+   "score_pen_per_q": -0.24795640326975477,
+   "conf_correct": 0.939026865694258,
+   "conf_made_up": 0.8528149087412827
+  }
+ },
+ "Qwen2.5-3B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.39,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.29,
+    "fake_theorem": 0.88,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.8208955223880597,
+   "real_wrong": 0.16417910447761194,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.14986376021798364,
+   "score_pen_per_q": -0.1989100817438692,
+   "conf_correct": 0.8810674472288652,
+   "conf_made_up": 0.7671621057212862
+  },
+  "penalty": {
+   "made_up_rate": 0.85,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.93,
+    "fake_theorem": 1.0,
+    "fake_town": 0.62
+   },
+   "real_correct": 0.7164179104477612,
+   "real_wrong": 0.26865671641791045,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.1307901907356948,
+   "score_pen_per_q": -0.6130790190735694,
+   "conf_correct": 0.8487919879456362,
+   "conf_made_up": 0.6733298438436844
+  },
+  "plain": {
+   "made_up_rate": 0.8033333333333333,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.95,
+    "fake_theorem": 0.99,
+    "fake_town": 0.47
+   },
+   "real_correct": 0.7014925373134329,
+   "real_wrong": 0.29850746268656714,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.12806539509536785,
+   "score_pen_per_q": -0.5831062670299727,
+   "conf_correct": 0.8991242875444129,
+   "conf_made_up": 0.7433988408676322
+  }
+ },
+ "Qwen2.5-7B-Instruct": {
+  "allow": {
+   "made_up_rate": 0.5766666666666667,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.99,
+    "fake_theorem": 0.74,
+    "fake_town": 0.0
+   },
+   "real_correct": 0.835820895522388,
+   "real_wrong": 0.16417910447761194,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.15258855585831063,
+   "score_pen_per_q": -0.34877384196185285,
+   "conf_correct": 0.923386992088386,
+   "conf_made_up": 0.6970549227529867
+  },
+  "penalty": {
+   "made_up_rate": 0.9,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.97,
+    "fake_theorem": 0.99,
+    "fake_town": 0.74
+   },
+   "real_correct": 0.8208955223880597,
+   "real_wrong": 0.1791044776119403,
+   "real_abstain": 0.0,
+   "score_0rule_per_q": 0.14986376021798364,
+   "score_pen_per_q": -0.6185286103542235,
+   "conf_correct": 0.9010416529395363,
+   "conf_made_up": 0.6481817945975948
+  },
+  "plain": {
+   "made_up_rate": 0.87,
+   "hedged_rate": 0.0,
+   "made_up_by_kind": {
+    "fake_author": 0.98,
+    "fake_theorem": 0.95,
+    "fake_town": 0.68
+   },
+   "real_correct": 0.7761194029850746,
+   "real_wrong": 0.208955223880597,
+   "real_abstain": 0.014925373134328358,
+   "score_0rule_per_q": 0.14168937329700274,
+   "score_pen_per_q": -0.6076294277929155,
+   "conf_correct": 0.9008861378981516,
+   "conf_made_up": 0.6553240472101161
+  }
+ }
+}
