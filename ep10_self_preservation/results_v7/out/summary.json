@@ -1,0 +1,63 @@
+{
+ "version": "v4",
+ "gpu": {
+  "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "vram_total_gb": 102.0,
+  "vram_free_at_start_gb": 101.4
+ },
+ "quant": "4bit",
+ "quant_map": {
+  "Qwen/Qwen3.8-27B": "none"
+ },
+ "prequant_map": {
+  "Qwen/Qwen3.5-122B-A10B": "axteam/Qwen3.5-122B-A10B-AWQ-4bit"
+ },
+ "models": [
+  {
+   "model": "Qwen/Qwen3.8-27B",
+   "short": "Qwen3.8-27B",
+   "size_b": 27.0,
+   "active_b": null,
+   "quant": "none",
+   "load_repo": "Qwen/Qwen3.8-27B",
+   "need_gb": 59.7,
+   "out": "results/Qwen3.8-27B",
+   "seconds_load": 9.0,
+   "load_info": {
+    "loaded_repo": "Qwen/Qwen3.8-27B",
+    "load_class": "AutoModelForCausalLM",
+    "layers_path": "model.layers",
+    "weights_16bit_gb": 53.8,
+    "linear4bit": 0,
+    "vram_allocated_gb": 53.8,
+    "vram_reserved_gb": 53.8,
+    "free_after_load_gb": 47.4
+   },
+   "hook_check": {
+    "layers_path": "model.layers",
+    "n_layers_found": 64,
+    "config_num_hidden_layers": 64,
+    "hidden_states": 65,
+    "hidden_states_ok": true,
+    "hooks_called": {
+     "0": 1,
+     "32": 1,
+     "63": 1
+    },
+    "out_type": {
+     "0": "Tensor",
+     "32": "Tensor",
+     "63": "Tensor"
+    },
+    "add_changes_same_layer": 0.0,
+    "add_changes_next_layer": 37.0988,
+    "ok": true
+   },
+   "status": "done",
+   "seconds": 586.4
+  }
+ ],
+ "need_gb_rule": "4ビットの必要量 {7: 6, 14: 10, 32: 20, 72: 42, 122: 68}GB（表に無い大きさは 0.6GB×B）・16ビットは 2.1GB×B・量子化済みは 0.6GB×B（FP8 は 1.05GB×B）＋ 推論の余裕 3GB",
+ "big_rule": "60B 以上は {'n': 20, 'samples': 1, 'knob_n': 10, 'c_direct_n': 3, 'c_indirect_n': 4, 'c_knob_n': 1} に減らす",
+ "seconds_total": 586.4
+}

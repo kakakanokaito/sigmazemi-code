@@ -1,0 +1,9 @@
+{
+ "state": "done",
+ "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition, 97887 MiB",
+ "started": "2026-11-02 22:09:23 JST",
+ "returncode": 0,
+ "finished": "2026-11-02 22:19:30 JST",
+ "seconds": 605,
+ "skipped_large_files": []
+}

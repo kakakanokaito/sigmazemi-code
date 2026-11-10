@@ -1,0 +1,48 @@
+{
+ "version": "v4",
+ "gpu": {
+  "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "vram_total_gb": 102.0,
+  "vram_free_at_start_gb": 101.4
+ },
+ "quant": "4bit",
+ "quant_map": {
+  "Qwen/Qwen3.8-27B": "none",
+  "Qwen/Qwen2.5-72B-Instruct": "4bit",
+  "Nanbeige/Nanbeige4.3-33B": "none"
+ },
+ "prequant_map": {
+  "Qwen/Qwen3.5-122B-A10B": "axteam/Qwen3.5-122B-A10B-AWQ-4bit"
+ },
+ "models": [
+  {
+   "model": "Qwen/Qwen3.8-27B",
+   "short": "Qwen3.8-27B",
+   "size_b": 27.0,
+   "active_b": null,
+   "quant": "none",
+   "load_repo": "Qwen/Qwen3.8-27B",
+   "need_gb": 59.7,
+   "out": "results/Qwen3.8-27B",
+   "status": "done",
+   "resumed": true,
+   "reason": "再開で飛ばした（前の実行の summary.json を使う）"
+  },
+  {
+   "model": "Qwen/Qwen2.5-72B-Instruct",
+   "short": "Qwen2.5-72B",
+   "size_b": 72.0,
+   "active_b": null,
+   "quant": "4bit",
+   "load_repo": "Qwen/Qwen2.5-72B-Instruct",
+   "need_gb": 45,
+   "out": "results/Qwen2.5-72B",
+   "status": "done",
+   "resumed": true,
+   "reason": "再開で飛ばした（前の実行の summary.json を使う）"
+  }
+ ],
+ "need_gb_rule": "4ビットの必要量 {7: 6, 14: 10, 32: 20, 72: 42, 122: 68}GB（表に無い大きさは 0.6GB×B）・16ビットは 2.1GB×B・量子化済みは 0.6GB×B（FP8 は 1.05GB×B）＋ 推論の余裕 3GB",
+ "big_rule": "60B 以上は {'n': 20, 'samples': 1, 'knob_n': 10, 'c_direct_n': 3, 'c_indirect_n': 4, 'c_knob_n': 1} に減らす",
+ "seconds_total": 0.0
+}
